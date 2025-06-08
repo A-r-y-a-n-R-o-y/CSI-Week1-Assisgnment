@@ -1,3 +1,4 @@
+#Aryan Roy
 #Lower Triangle
 rows = int(input("Enter number of rows: "))
 
